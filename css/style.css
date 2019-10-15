@@ -121,7 +121,7 @@
 @font-face {
   font-family: "Cormorant Infant Semibold";
   src: url("../fonts/CormorantInfant-SemiBold.eot");
-  src: url("../fonts/CormorantInfant-SemiBold.eot?#iefix") format("embedded-opentype"), url("CormorantInfant-SemiBold.woff") format("woff"), url("../fonts/CormorantInfant-SemiBold.ttf") format("truetype");
+  src: url("../fonts/CormorantInfant-SemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/CormorantInfant-SemiBold.woff") format("woff"), url("../fonts/CormorantInfant-SemiBold.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 
